@@ -1,0 +1,20 @@
+# Ignore TypeScript source files
+*.ts
+*.tsx
+
+# Allow .d.ts files
+!*.d.ts  
+
+# Ignore tests directory
+/tests
+
+# Ignore config files
+.editorconfig
+tsconfig.json
+
+# Ignore version control files
+.git
+
+# Ignore documentation and example files
+/docs
+/examples
